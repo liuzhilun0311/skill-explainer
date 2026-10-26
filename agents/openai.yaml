@@ -1,4 +1,4 @@
 interface:
-  display_name: "技能解读"
+  display_name: "技能解读 (skill-explainer)"
   short_description: "讲清已有技能的能力边界、输入要求、输出形式和依赖，提供可直接使用的调用示例"
   default_prompt: "使用 $skill-explainer 解读我指定的技能，说明它能做什么、需要哪些输入、会输出什么，并给出最小有效调用示例。"
