@@ -1,1 +1,4 @@
-aW50ZXJmYWNlOgogIGRpc3BsYXlfbmFtZTogIuaKgOiDveino+ivuyIKICBzaG9ydF9kZXNjcmlwdGlvbjogIuiusua4heW3suacieaKgOiDveeahOiDveWKm+i+ueeVjOOAgei+k+WFpeimgeaxguOAgei+k+WHuuW9ouW8j+WSjOS+nei1lu+8jOaPkOS+m+WPr+ebtOaOpeS9v+eUqOeahOiwg+eUqOekuuS+iyIKICBkZWZhdWx0X3Byb21wdDogIuS9v+eUqCAkc2tpbGwtZXhwbGFpbmVyIOino+ivu+aIkeaMh+WumueahOaKgOiDve+8jOivtOaYjuWug+iDveWBmuS7gOS5iOOAgemcgOimgeWTquS6m+i+k+WFpeOAgeS8mui+k+WHuuS7gOS5iO+8jOW5tue7meWHuuacgOWwj+acieaViOiwg+eUqOekuuS+i+OAgiIK
+interface:
+  display_name: "技能解读"
+  short_description: "讲清已有技能的能力边界、输入要求、输出形式和依赖，提供可直接使用的调用示例"
+  default_prompt: "使用 $skill-explainer 解读我指定的技能，说明它能做什么、需要哪些输入、会输出什么，并给出最小有效调用示例。"
